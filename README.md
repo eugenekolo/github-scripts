@@ -7,7 +7,7 @@
 
   - [C](#c)
   - [Shell](#shell)
-  - [Java](#java)
+  - [Assembly](#assembly)
   - [Python](#python)
   - [VimL](#viml)
   - [JavaScript](#javascript)
@@ -21,7 +21,7 @@
   - [Matlab](#matlab)
   - [Others](#others)
   - [Go](#go)
-  - [Assembly](#assembly)
+  - [Java](#java)
   - [PHP](#php)
   - [Ruby](#ruby)
   - [CSS](#css)
@@ -49,15 +49,9 @@
 
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
-## Java 
+## Assembly 
 
-- [cs591](https://github.com/eugenekolo/cs591) - 
-- [santa-tracker-android](https://github.com/google/santa-tracker-android) - 
-- [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
-- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
-- [Silence](https://github.com/SilenceIM/Silence) - A fork of Signal with only SMS/MMS encryption.
-- [clipcaster](https://github.com/activems/clipcaster) - A LastPass clipboard password sniffer
+- [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 
 ## Python 
 
@@ -178,9 +172,14 @@
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
 - [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 
-## Assembly 
+## Java 
 
-- [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
+- [santa-tracker-android](https://github.com/google/santa-tracker-android) - 
+- [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+- [binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
+- [Silence](https://github.com/SilenceIM/Silence) - A fork of Signal with only SMS/MMS encryption.
+- [clipcaster](https://github.com/activems/clipcaster) - A LastPass clipboard password sniffer
 
 ## PHP 
 
