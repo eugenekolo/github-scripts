@@ -1,4 +1,4 @@
 #!/bin/bash
-su -c "starred --username eugenekolo > README.md" eugenek
+su -c "cd /home/eugenek/starred && starred --username eugenekolo > README.md" eugenek
 su -c "cd /home/eugenek/starred && git add README.md && git commit -m 'Updating' && git push origin master" eugenek
 
