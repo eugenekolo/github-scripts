@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /home/eugenek/starred
+starred --username eugenekolo > README.md
+git add README.md
+git commit -m "Updating"
+git push origin master
+

@@ -8,6 +8,7 @@
   - [C](#c)
   - [Shell](#shell)
   - [Assembly](#assembly)
+  - [Scala](#scala)
   - [Python](#python)
   - [VimL](#viml)
   - [JavaScript](#javascript)
@@ -28,6 +29,7 @@
 
 ## C 
 
+- [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Binaries for Linux, Windows, and OS X
 - [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
 - [ctf-training](https://github.com/TowerofHanoi/ctf-training) - Repository with the material of the Tower of Hanoi introductory briefings on binary exploitation
 - [chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
@@ -53,8 +55,14 @@
 
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 
+## Scala 
+
+- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+
 ## Python 
 
+- [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
+- [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [chosen-plaintext](https://github.com/EiNSTeiN-/chosen-plaintext) - A small python library for exploiting simple chosen-plaintext attacks.
 - [ec700-charlie-3](https://github.com/BUseclab/ec700-charlie-3) - 
@@ -66,14 +74,14 @@
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [linux-ransomware-decrypter](https://github.com/eugenekolo/linux-ransomware-decrypter) - Bitdefender's Linux.Encoder.1 Decrypter
 - [ida-patcher](https://github.com/iphelix/ida-patcher) - IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory.
-- [ete](https://github.com/etetoolkit/ete) - ETE is a Python programming toolkit for building, comparing, annotating, manipulating and visualising trees. It provides both a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
+- [ete](https://github.com/etetoolkit/ete) - Python programming toolkit for building, comparing, annotating, manipulating and visualising trees. It provides both a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
 - [project-euler](https://github.com/eugenekolo/project-euler) - Project Euler solutions in diferent languages
 - [viper](https://github.com/viper-framework/viper) - Binary analysis and management framework
 - [libc-binary-collection](https://github.com/molnarg/libc-binary-collection) - A collection of more than 1000 binary libc files
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups) - A colleciton of CTF write-ups all using pwntools
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
-- [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework used by Gallopsled in every CTF
+- [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [SimplyEmail](https://github.com/killswitch-GUI/SimplyEmail) - Email recon made fast and easy, with a framework to build on
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
@@ -95,7 +103,7 @@
 ## JavaScript 
 
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively
+- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively
 - [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
 - [Ghost](https://github.com/TryGhost/Ghost) - Just a blogging platform
 - [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
@@ -174,7 +182,7 @@
 
 ## Java 
 
-- [santa-tracker-android](https://github.com/google/santa-tracker-android) - 
+- [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
