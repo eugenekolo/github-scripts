@@ -75,7 +75,7 @@
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [linux-ransomware-decrypter](https://github.com/eugenekolo/linux-ransomware-decrypter) - Bitdefender's Linux.Encoder.1 Decrypter
 - [ida-patcher](https://github.com/iphelix/ida-patcher) - IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory.
-- [ete](https://github.com/etetoolkit/ete) - Python programming toolkit for building, comparing, annotating, manipulating and visualising trees. It provides both a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
+- [ete](https://github.com/etetoolkit/ete) - Python package for building, comparing, annotating, manipulating and visualising trees. It provides a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
 - [project-euler](https://github.com/eugenekolo/project-euler) - Project Euler solutions in diferent languages
 - [viper](https://github.com/viper-framework/viper) - Binary analysis and management framework
 - [libc-binary-collection](https://github.com/molnarg/libc-binary-collection) - A collection of more than 1000 binary libc files
