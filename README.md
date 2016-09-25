@@ -107,7 +107,7 @@
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively
 - [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
-- [Ghost](https://github.com/TryGhost/Ghost) - Just a blogging platform
+- [Ghost](https://github.com/TryGhost/Ghost) - A simple, powerful publishing platform
 - [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
 - [UnuglifyJS](https://github.com/eth-srl/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
