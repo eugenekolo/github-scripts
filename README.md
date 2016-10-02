@@ -51,6 +51,7 @@
 
 - [starred](https://github.com/eugenekolo/starred) - A weekly updated list of my GitHub stars!
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - Probably the coolest anime discovery platform around.
 
 ## Assembly 
 
@@ -198,7 +199,6 @@
 ## Ruby 
 
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - Probably the coolest anime discovery platform around.
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
 
 ## CSS 
