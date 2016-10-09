@@ -198,6 +198,7 @@
 
 ## Ruby 
 
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
 
