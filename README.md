@@ -51,7 +51,7 @@
 
 - [starred](https://github.com/eugenekolo/starred) - A weekly updated list of my GitHub stars!
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - Probably the coolest anime discovery platform around.
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
 
 ## Assembly 
 
@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection. Automatic deobfuscation using symbolic execution and LLVM.
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
