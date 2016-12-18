@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
 - [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection. Automatic deobfuscation using symbolic execution and LLVM.
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
@@ -130,6 +131,7 @@
 
 ## C++ 
 
+- [hexrays_tools](https://github.com/nihilus/hexrays_tools) - 
 - [Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
 - [CrowdDetox](https://github.com/CrowdStrike/CrowdDetox) - 
