@@ -10,14 +10,13 @@
   - [Assembly](#assembly)
   - [Scala](#scala)
   - [Python](#python)
-  - [VimL](#viml)
+  - [Swift](#swift)
   - [JavaScript](#javascript)
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [C++](#c++)
   - [Perl](#perl)
   - [C#](#c#)
-  - [Swift](#swift)
   - [HTML](#html)
   - [Matlab](#matlab)
   - [Others](#others)
@@ -25,6 +24,7 @@
   - [Java](#java)
   - [PHP](#php)
   - [Ruby](#ruby)
+  - [Vim script](#vim script)
   - [CSS](#css)
 
 ## C 
@@ -63,6 +63,7 @@
 
 ## Python 
 
+- [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
 - [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection. Automatic deobfuscation using symbolic execution and LLVM.
@@ -101,9 +102,9 @@
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Makes debugging suck less
 - [net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 
-## VimL 
+## Swift 
 
-- [dotfiles](https://github.com/crowell/dotfiles) - home of the award winning tmux configuration file
+- [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 
 ## JavaScript 
 
@@ -155,10 +156,6 @@
 
 - [NBug](https://github.com/soygul/NBug) - NBug is a .NET library created to automate the bug reporting process. It automatically creates and sends: * Bug reports, * Crash reports with minidump, * Error/exception reports with stack trace + ext. info. It can also be set up as a user feedback system (i.e. feature requests).
 
-## Swift 
-
-- [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
-
 ## HTML 
 
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - 
@@ -205,6 +202,10 @@
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
+
+## Vim script 
+
+- [dotfiles](https://github.com/crowell/dotfiles) - home of the award winning tmux configuration file
 
 ## CSS 
 
