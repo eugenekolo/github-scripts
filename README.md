@@ -44,7 +44,6 @@
 - [MBE](https://github.com/RPISEC/MBE) - Course materials for Modern Binary Exploitation by RPISEC
 - [GOAT-Plugs](https://github.com/enferex/GOAT-Plugs) - GCC Obfuscation Augmentation Tools
 - [Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
-- [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [pcompress](https://github.com/moinakg/pcompress) - A Parallelized Data Deduplication and Compression utility
 
 ## Shell 
@@ -92,7 +91,7 @@
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
 - [ARDT](https://github.com/m57/ARDT) - Akamai Reflective DDoS Tool - Attack the origin host behind the Akamai Edge hosts and DDoS protection offered by Akamai services.
-- [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. Pupy can communicate using various transports, migrate into processes (reflective injection), load remote python code, python packages and python C-extensions from memory.
+- [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
@@ -142,6 +141,7 @@
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [pn](https://github.com/simonsteele/pn) - Programmer's Notepad
 - [vld](https://github.com/KindDragon/vld) - Visual Leak Detector v2 - mirror of https://git01.codeplex.com/vld
+- [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [packJPG](https://github.com/packjpg/packJPG) - A compression program for further compressing JPEG image files
 
 ## Perl 
