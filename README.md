@@ -50,7 +50,6 @@
 
 - [starred](https://github.com/eugenekolo/starred) - A weekly updated list of my GitHub stars!
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
 
 ## Assembly 
 
@@ -62,6 +61,7 @@
 
 ## Python 
 
+- [ctf-writeups](https://github.com/ispoleet/ctf-writeups) - Selected CTF writeups
 - [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
@@ -98,7 +98,7 @@
 - [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
-- [pwndbg](https://github.com/pwndbg/pwndbg) - Makes debugging suck less
+- [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 
 ## Swift 
@@ -127,7 +127,7 @@
 
 ## OCaml 
 
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## C++ 
 
@@ -161,6 +161,7 @@
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - 
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
 
 ## Matlab 
 
