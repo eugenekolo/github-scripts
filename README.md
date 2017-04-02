@@ -111,7 +111,7 @@
 
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively + ESLint Plugin
+- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
 - [Ghost](https://github.com/TryGhost/Ghost) - A simple, powerful publishing platform
 - [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
