@@ -62,6 +62,7 @@
 
 ## Python 
 
+- [manticore](https://github.com/trailofbits/manticore) - Dynamic binary analysis tool
 - [RSAExploits](https://github.com/eazebu/RSAExploits) - 
 - [ctf-writeups](https://github.com/ispoleet/ctf-writeups) - Selected CTF writeups
 - [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
@@ -142,7 +143,7 @@
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [pn](https://github.com/simonsteele/pn) - Programmer's Notepad
-- [vld](https://github.com/KindDragon/vld) - Visual Leak Detector v2 - mirror of https://git01.codeplex.com/vld
+- [vld](https://github.com/KindDragon/vld) - Visual Leak Detector
 - [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [packJPG](https://github.com/packjpg/packJPG) - A compression program for further compressing JPEG image files
 
