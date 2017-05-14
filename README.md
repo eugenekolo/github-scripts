@@ -62,6 +62,12 @@
 
 ## Python 
 
+- [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [QTodoTxt](https://github.com/QTodoTxt/QTodoTxt) - Cross Platform todo.txt GUI
+- [Openroast](https://github.com/Roastero/Openroast) - An open source, cross-platform application for home coffee roasting
+- [PPlayer](https://github.com/wn0112/PPlayer) - Music Player code by Python 2.7 and PyQt. MP3 and WMA format are supported.
+- [simple-markpad](https://github.com/langzhou/simple-markpad) - a markdown editor made with pyqt
+- [qhangups](https://github.com/xmikos/qhangups) - Alternative client for Google Hangouts written in PyQt
 - [manticore](https://github.com/trailofbits/manticore) - Dynamic binary analysis tool
 - [RSAExploits](https://github.com/eazebu/RSAExploits) - 
 - [ctf-writeups](https://github.com/ispoleet/ctf-writeups) - Selected CTF writeups
@@ -110,6 +116,7 @@
 
 ## JavaScript 
 
+- [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -134,6 +141,8 @@
 
 ## C++ 
 
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [iaito](https://github.com/hteso/iaito) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [hexrays_tools](https://github.com/nihilus/hexrays_tools) - 
 - [Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
