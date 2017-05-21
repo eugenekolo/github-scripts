@@ -30,7 +30,7 @@
 ## C 
 
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
-- [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and OS X
+- [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
 - [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
 - [ctf-training](https://github.com/TowerofHanoi/ctf-training) - Repository with the material of the Tower of Hanoi introductory briefings on binary exploitation
 - [chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
