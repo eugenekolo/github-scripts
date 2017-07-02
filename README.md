@@ -182,6 +182,7 @@
 
 ## Others 
 
+- [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
 - [2015-ctf-game](https://github.com/mitre-cyber-academy/2015-ctf-game) - Repo containing links to all CTF Challenges used in the 2015 MITRE CTF.
