@@ -29,6 +29,7 @@
 
 ## C 
 
+- [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
 - [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
 - [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
