@@ -183,6 +183,7 @@
 
 ## Others 
 
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
