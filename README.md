@@ -29,6 +29,7 @@
 
 ## C 
 
+- [stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
 - [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
 - [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
@@ -63,6 +64,8 @@
 
 ## Python 
 
+- [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
+- [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [QTodoTxt](https://github.com/QTodoTxt/QTodoTxt) - Cross Platform todo.txt GUI
 - [Openroast](https://github.com/Roastero/Openroast) - An open source, cross-platform application for home coffee roasting
@@ -142,6 +145,7 @@
 
 ## C++ 
 
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [paybreak](https://github.com/BUseclab/paybreak) - 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [iaito](https://github.com/hteso/iaito) - A Qt and C++ GUI for radare2 reverse engineering framework
