@@ -64,6 +64,7 @@
 
 ## Python 
 
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -202,6 +203,7 @@
 
 ## Go 
 
+- [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
 - [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 
