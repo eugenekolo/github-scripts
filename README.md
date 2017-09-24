@@ -51,6 +51,7 @@
 
 ## Shell 
 
+- [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
 - [starred](https://github.com/eugenekolo/starred) - A weekly updated list of my GitHub stars!
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
@@ -121,6 +122,7 @@
 
 ## JavaScript 
 
+- [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -146,6 +148,7 @@
 
 ## C++ 
 
+- [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [paybreak](https://github.com/BUseclab/paybreak) - 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
