@@ -29,6 +29,7 @@
 
 ## C 
 
+- [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
 - [stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
 - [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
@@ -65,6 +66,11 @@
 
 ## Python 
 
+- [dash](https://github.com/plotly/dash) - Interactive, Analytical, Reactive Web Apps for Python
+- [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
+- [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
+- [domato](https://github.com/google/domato) - DOM fuzzer
+- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings, digging deep into commit history
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
@@ -191,6 +197,7 @@
 
 ## Others 
 
+- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
