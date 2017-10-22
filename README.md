@@ -66,7 +66,8 @@
 
 ## Python 
 
-- [dash](https://github.com/plotly/dash) - Interactive, Analytical, Reactive Web Apps for Python
+- [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
+- [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python. Dash Is Productive™
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/google/domato) - DOM fuzzer
@@ -232,6 +233,7 @@
 
 ## Ruby 
 
+- [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
