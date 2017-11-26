@@ -71,7 +71,7 @@
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/google/domato) - DOM fuzzer
-- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings, digging deep into commit history
+- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
@@ -109,7 +109,7 @@
 - [pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups) - A colleciton of CTF write-ups all using pwntools
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [SimplyEmail](https://github.com/killswitch-GUI/SimplyEmail) - Email recon made fast and easy, with a framework to build on
+- [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy, with a framework to build on
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
 - [ARDT](https://github.com/m57/ARDT) - Akamai Reflective DDoS Tool - Attack the origin host behind the Akamai Edge hosts and DDoS protection offered by Akamai services.
@@ -169,7 +169,7 @@
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [pn](https://github.com/simonsteele/pn) - Programmer's Notepad
-- [vld](https://github.com/KindDragon/vld) - Visual Leak Detector
+- [vld](https://github.com/KindDragon/vld) - Visual Leak Detector for Visual C++ 2008-2015
 - [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [packJPG](https://github.com/packjpg/packJPG) - A compression program for further compressing JPEG image files
 
