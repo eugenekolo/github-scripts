@@ -5,50 +5,79 @@
 
 ## Contents
 
-  - [C](#c)
-  - [Shell](#shell)
-  - [Assembly](#assembly)
+  - [Java](#java)
   - [Scala](#scala)
-  - [Python](#python)
-  - [Swift](#swift)
   - [JavaScript](#javascript)
   - [Makefile](#makefile)
-  - [OCaml](#ocaml)
-  - [C++](#c++)
   - [Perl](#perl)
-  - [C#](#c#)
-  - [HTML](#html)
+  - [Jupyter Notebook](#jupyter notebook)
   - [Matlab](#matlab)
+  - [Shell](#shell)
+  - [Assembly](#assembly)
+  - [Python](#python)
+  - [HTML](#html)
   - [Others](#others)
-  - [Go](#go)
-  - [Java](#java)
-  - [PHP](#php)
-  - [Ruby](#ruby)
+  - [Swift](#swift)
+  - [C](#c)
+  - [C++](#c++)
   - [Vim script](#vim script)
   - [CSS](#css)
+  - [Ruby](#ruby)
+  - [OCaml](#ocaml)
+  - [C#](#c#)
+  - [Go](#go)
+  - [PHP](#php)
 
-## C 
+## Java 
 
-- [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
-- [stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
-- [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
-- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
-- [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
-- [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
-- [ctf-training](https://github.com/TowerofHanoi/ctf-training) - Repository with the material of the Tower of Hanoi introductory briefings on binary exploitation
-- [chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
-- [how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
-- [libctf](https://github.com/fuzyll/libctf) - Library for creating CTF services.
-- [shellforge4](https://github.com/whatsbcn/shellforge4) - Enhanced version of secdev's shellforge G3. More platforms and architectures supported.
-- [peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
-- [minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
-- [cdefs](https://github.com/mateogianolio/cdefs) - Describe C function prototypes in JSON.
-- [preeny](https://github.com/zardus/preeny) - Some helpful preload libraries for pwning stuff.
-- [SwiftFilesZip](https://github.com/sketchytech/SwiftFilesZip) - A repo for saving, loading, deleting and unzipping in iOS
-- [MBE](https://github.com/RPISEC/MBE) - Course materials for Modern Binary Exploitation by RPISEC
-- [GOAT-Plugs](https://github.com/enferex/GOAT-Plugs) - GCC Obfuscation Augmentation Tools
-- [Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
-- [pcompress](https://github.com/moinakg/pcompress) - A Parallelized Data Deduplication and Compression utility
+- [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
+- [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+- [binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
+- [Silence](https://github.com/SilenceIM/Silence) - A fork of Signal with only SMS/MMS encryption.
+- [clipcaster](https://github.com/activems/clipcaster) - A LastPass clipboard password sniffer
+
+## Scala 
+
+- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+
+## JavaScript 
+
+- [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
+- [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
+- [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
+- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+- [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
+- [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
+- [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
+- [UnuglifyJS](https://github.com/eth-srl/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
+- [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
+- [WhoAmI](https://github.com/samdoiron/WhoAmI) - A mind-reading website.
+- [shapdar](https://github.com/nhmood/shapdar) - shape radar w/ html5 + js
+
+## Makefile 
+
+- [srclib-c](https://github.com/sourcegraph/srclib-c) - 
+- [memeshop](https://github.com/crowell/memeshop) - exploit challenge from csaw ctf qualifier 2015
+
+## Perl 
+
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
+- [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
+- [perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter (MIRROR ONLY)
+- [watson-perl](https://github.com/nhmood/watson-perl) - 
+
+## Jupyter Notebook 
+
+- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+
+## Matlab 
+
+- [hbridge](https://github.com/bduong/hbridge) - Wireless MSP430 microcontroller hooked up to a small RC car with a MATLAB UI for control
 
 ## Shell 
 
@@ -60,10 +89,6 @@
 
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 
-## Scala 
-
-- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-
 ## Python 
 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
@@ -72,7 +97,7 @@
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/google/domato) - DOM fuzzer
 - [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -123,35 +148,55 @@
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 
+## HTML 
+
+- [sec-tools](https://github.com/eugenekolo/sec-tools) - 
+- [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
+- [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
+
+## Others 
+
+- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
+- [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
+- [2015-ctf-game](https://github.com/mitre-cyber-academy/2015-ctf-game) - Repo containing links to all CTF Challenges used in the 2015 MITRE CTF.
+- [2014-ctf-game](https://github.com/mitre-cyber-academy/2014-ctf-game) - Repo containing links to all CTF Challenges used in the 2014 MITRE CTF.
+- [2013-ctf-game](https://github.com/mitre-cyber-academy/2013-ctf-game) - Repo containing links to all CTF Challenges used in the 2013 MITRE CTF.
+- [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+- [win-sec-tools](https://github.com/eugenekolo/win-sec-tools) - Windows security and development tools installers.
+- [Malware](https://github.com/RPISEC/Malware) - Course materials for Malware Analysis by RPISEC
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+
 ## Swift 
 
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 
-## JavaScript 
+## C 
 
-- [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
-- [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
-- [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
-- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-- [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
-- [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
-- [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
-- [UnuglifyJS](https://github.com/eth-srl/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
-- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
-- [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
-- [WhoAmI](https://github.com/samdoiron/WhoAmI) - A mind-reading website.
-- [shapdar](https://github.com/nhmood/shapdar) - shape radar w/ html5 + js
-
-## Makefile 
-
-- [srclib-c](https://github.com/sourcegraph/srclib-c) - 
-- [memeshop](https://github.com/crowell/memeshop) - exploit challenge from csaw ctf qualifier 2015
-
-## OCaml 
-
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
+- [stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
+- [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
+- [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
+- [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
+- [ctf-training](https://github.com/TowerofHanoi/ctf-training) - Repository with the material of the Tower of Hanoi introductory briefings on binary exploitation
+- [chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
+- [how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
+- [libctf](https://github.com/fuzyll/libctf) - Library for creating CTF services.
+- [shellforge4](https://github.com/whatsbcn/shellforge4) - Enhanced version of secdev's shellforge G3. More platforms and architectures supported.
+- [peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
+- [minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
+- [cdefs](https://github.com/mateogianolio/cdefs) - Describe C function prototypes in JSON.
+- [preeny](https://github.com/zardus/preeny) - Some helpful preload libraries for pwning stuff.
+- [SwiftFilesZip](https://github.com/sketchytech/SwiftFilesZip) - A repo for saving, loading, deleting and unzipping in iOS
+- [MBE](https://github.com/RPISEC/MBE) - Course materials for Modern Binary Exploitation by RPISEC
+- [GOAT-Plugs](https://github.com/enferex/GOAT-Plugs) - GCC Obfuscation Augmentation Tools
+- [Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
+- [pcompress](https://github.com/moinakg/pcompress) - A Parallelized Data Deduplication and Compression utility
 
 ## C++ 
 
@@ -173,71 +218,6 @@
 - [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [packJPG](https://github.com/packjpg/packJPG) - A compression program for further compressing JPEG image files
 
-## Perl 
-
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
-- [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
-- [perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter (MIRROR ONLY)
-- [watson-perl](https://github.com/nhmood/watson-perl) - 
-
-## C# # 
-
-- [NBug](https://github.com/soygul/NBug) - NBug is a .NET library created to automate the bug reporting process. It automatically creates and sends: * Bug reports, * Crash reports with minidump, * Error/exception reports with stack trace + ext. info. It can also be set up as a user feedback system (i.e. feature requests).
-
-## HTML 
-
-- [sec-tools](https://github.com/eugenekolo/sec-tools) - 
-- [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
-- [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
-
-## Matlab 
-
-- [hbridge](https://github.com/bduong/hbridge) - Wireless MSP430 microcontroller hooked up to a small RC car with a MATLAB UI for control
-
-## Others 
-
-- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
-- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
-- [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
-- [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
-- [2015-ctf-game](https://github.com/mitre-cyber-academy/2015-ctf-game) - Repo containing links to all CTF Challenges used in the 2015 MITRE CTF.
-- [2014-ctf-game](https://github.com/mitre-cyber-academy/2014-ctf-game) - Repo containing links to all CTF Challenges used in the 2014 MITRE CTF.
-- [2013-ctf-game](https://github.com/mitre-cyber-academy/2013-ctf-game) - Repo containing links to all CTF Challenges used in the 2013 MITRE CTF.
-- [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
-- [win-sec-tools](https://github.com/eugenekolo/win-sec-tools) - Windows security and development tools installers.
-- [Malware](https://github.com/RPISEC/Malware) - Course materials for Malware Analysis by RPISEC
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-
-## Go 
-
-- [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
-- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
-- [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
-
-## Java 
-
-- [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
-- [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
-- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
-- [Silence](https://github.com/SilenceIM/Silence) - A fork of Signal with only SMS/MMS encryption.
-- [clipcaster](https://github.com/activems/clipcaster) - A LastPass clipboard password sniffer
-
-## PHP 
-
-- [iOS-Mail.app-inject-kit](https://github.com/jansoucek/iOS-Mail.app-inject-kit) - iOS 8.3 Mail.app inject kit
-
-## Ruby 
-
-- [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
-- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [watson-ruby](https://github.com/nhmood/watson-ruby) - 
-
 ## Vim script 
 
 - [dotfiles](https://github.com/crowell/dotfiles) - home of the award winning tmux configuration file
@@ -246,6 +226,31 @@
 
 - [cozy-youth-theme](https://github.com/eugenekolo/cozy-youth-theme) - A cozy, friendly, and readable theme for Ghost blog.
 - [kolotheme](https://github.com/eugenekolo/kolotheme) - Dark Ghost blog theme for a developer
+
+## Ruby 
+
+- [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+- [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [watson-ruby](https://github.com/nhmood/watson-ruby) - 
+
+## OCaml 
+
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+
+## C# # 
+
+- [NBug](https://github.com/soygul/NBug) - NBug is a .NET library created to automate the bug reporting process. It automatically creates and sends: * Bug reports, * Crash reports with minidump, * Error/exception reports with stack trace + ext. info. It can also be set up as a user feedback system (i.e. feature requests).
+
+## Go 
+
+- [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
+- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
+- [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
+
+## PHP 
+
+- [iOS-Mail.app-inject-kit](https://github.com/jansoucek/iOS-Mail.app-inject-kit) - iOS 8.3 Mail.app inject kit
 
 
 ## License
