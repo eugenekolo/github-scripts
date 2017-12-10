@@ -91,6 +91,8 @@
 
 ## Python 
 
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [ida](https://github.com/devttys0/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python. Dash Is Productive™
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
@@ -245,7 +247,7 @@
 ## Go 
 
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
-- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText **3**, providing code completion and other IDE-like features.
+- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
 - [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 
 ## PHP 
