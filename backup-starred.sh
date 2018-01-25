@@ -1,4 +1,7 @@
 #!/bin/bash
+# Downloads every starred repo from a user. 
+# Mostly incase they go down, so you can have a backup.
+#
 
 user="eugenekolo"
 pages=$(curl -I https://api.github.com/users/$user/starred | sed -nr 's/^Link:.*page=([0-9]+).*/\1/p')
