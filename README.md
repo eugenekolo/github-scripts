@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [QBDI](https://github.com/quarkslab/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
