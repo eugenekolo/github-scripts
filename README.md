@@ -46,7 +46,6 @@
 
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-- [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 YouTube add-on to show captions in two languages
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
@@ -98,6 +97,7 @@
 ## Python 
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [focuson](https://github.com/uber/focuson) - A tool to surface security issues in python code
 - [pre-commit-python-sorter](https://github.com/FalconSocial/pre-commit-python-sorter) - A pre-commit hook to sort your Python imports.
 - [hqtrivia-automation](https://github.com/blissend/hqtrivia-automation) - Automate finding better answers in HQ Trivia. This is for educational purposes only!
