@@ -17,13 +17,14 @@
   - [Python](#python)
   - [HTML](#html)
   - [Others](#others)
-  - [Swift](#swift)
+  - [Ruby](#ruby)
   - [C](#c)
+  - [LLVM](#llvm)
   - [C++](#c++)
   - [Objective-C](#objective-c)
   - [Vim script](#vim script)
   - [CSS](#css)
-  - [Ruby](#ruby)
+  - [Swift](#swift)
   - [OCaml](#ocaml)
   - [C#](#c#)
   - [Go](#go)
@@ -125,7 +126,6 @@
 - [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
-- [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection (a solutions for the Tigress challenge). Automatic deobfuscation using symbolic execution and LLVM.
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -187,16 +187,18 @@
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 
-## Swift 
+## Ruby 
 
-- [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
+- [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+- [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
+- [watson-ruby](https://github.com/nhmood/watson-ruby) - 
 
 ## C 
 
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
 - [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for android vulneribilities
 - [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
-- [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
 - [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
 - [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
@@ -215,12 +217,17 @@
 - [Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
 - [pcompress](https://github.com/moinakg/pcompress) - A Parallelized Data Deduplication and Compression utility
 
+## LLVM 
+
+- [Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress binary protection. Break some of its protections and solve some of its challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM.
+
 ## C++ 
 
 - [QBDI](https://github.com/quarkslab/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
+- [MazeWalker](https://github.com/0xPhoeniX/MazeWalker) - Toolkit for enriching and speeding up static malware analysis
 - [paybreak](https://github.com/BUseclab/paybreak) - 
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [iaito](https://github.com/hteso/iaito) - This project has been moved to:
@@ -250,12 +257,9 @@
 - [cozy-youth-theme](https://github.com/eugenekolo/cozy-youth-theme) - A cozy, friendly, and readable theme for Ghost blog.
 - [kolotheme](https://github.com/eugenekolo/kolotheme) - Dark Ghost blog theme for a developer
 
-## Ruby 
+## Swift 
 
-- [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
-- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
-- [watson-ruby](https://github.com/nhmood/watson-ruby) - 
+- [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 
 ## OCaml 
 
