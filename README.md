@@ -32,6 +32,7 @@
 
 ## Java 
 
+- [CTF-Android-Writeup](https://github.com/xuanyonghao/CTF-Android-Writeup) - 这是最近一年来参加CTF比赛做出来的部分android逆向题目wp
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -47,7 +48,7 @@
 
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 YouTube add-on to show captions in two languages
+- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Captions in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -89,6 +90,7 @@
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
 - [github-scripts](https://github.com/eugenekolo/github-scripts) - Some GitHub scripts
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## Assembly 
@@ -163,6 +165,7 @@
 
 ## HTML 
 
+- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) - Modern JavaScript Tutorial
 - [CTF-Writeups](https://github.com/xPowerz/CTF-Writeups) - 
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - 
@@ -172,11 +175,12 @@
 
 ## Others 
 
+- [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
+- [android-crackme](https://github.com/eshard-old/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
 - [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
 - [2015-ctf-game](https://github.com/mitre-cyber-academy/2015-ctf-game) - Repo containing links to all CTF Challenges used in the 2015 MITRE CTF.
 - [2014-ctf-game](https://github.com/mitre-cyber-academy/2014-ctf-game) - Repo containing links to all CTF Challenges used in the 2014 MITRE CTF.
