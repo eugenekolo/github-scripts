@@ -99,6 +99,7 @@
 
 ## Python 
 
+- [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [focuson](https://github.com/uber/focuson) - A tool to surface security issues in python code
@@ -175,6 +176,7 @@
 
 ## Others 
 
+- [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that will execute other stuff
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [android-crackme](https://github.com/eshard-old/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
