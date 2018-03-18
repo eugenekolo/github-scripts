@@ -90,7 +90,6 @@
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
 - [github-scripts](https://github.com/eugenekolo/github-scripts) - Some GitHub scripts
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## Assembly 
@@ -133,6 +132,7 @@
 - [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [chosen-plaintext](https://github.com/EiNSTeiN-/chosen-plaintext) - A small python library for exploiting simple chosen-plaintext attacks.
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [ec700-charlie-3](https://github.com/BUseclab/ec700-charlie-3) - 
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz - framework for black-box CAN network analysis
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
