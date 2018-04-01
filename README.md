@@ -98,6 +98,8 @@
 
 ## Python 
 
+- [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
+- [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
 - [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
@@ -166,6 +168,7 @@
 
 ## HTML 
 
+- [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) - Modern JavaScript Tutorial
 - [CTF-Writeups](https://github.com/xPowerz/CTF-Writeups) - 
@@ -176,6 +179,7 @@
 
 ## Others 
 
+- [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
 - [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that will execute other stuff
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [android-crackme](https://github.com/eshard-old/android-crackme) - You have 8 flags to retrieve.  Crack it already!
@@ -188,7 +192,6 @@
 - [2014-ctf-game](https://github.com/mitre-cyber-academy/2014-ctf-game) - Repo containing links to all CTF Challenges used in the 2014 MITRE CTF.
 - [2013-ctf-game](https://github.com/mitre-cyber-academy/2013-ctf-game) - Repo containing links to all CTF Challenges used in the 2013 MITRE CTF.
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
-- [win-sec-tools](https://github.com/eugenekolo/win-sec-tools) - Windows security and development tools installers.
 - [Malware](https://github.com/RPISEC/Malware) - Course materials for Malware Analysis by RPISEC
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
@@ -283,6 +286,7 @@
 
 ## PHP 
 
+- [vuejs-serverside-template-xss](https://github.com/dotboris/vuejs-serverside-template-xss) - Demo of a Vue.js app that mixes both clientside templates and serverside templates leading to an XSS vulnerability
 - [iOS-Mail.app-inject-kit](https://github.com/jankais3r/iOS-Mail.app-inject-kit) - iOS 8.3 Mail.app inject kit
 
 
