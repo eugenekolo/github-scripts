@@ -48,7 +48,7 @@
 
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Captions in two languages for YouTube & Netflix
+- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐Captions in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -263,6 +263,7 @@
 
 ## CSS 
 
+- [csp-testing](https://github.com/eoftedal/csp-testing) - For testing browser support for Content Security Policy
 - [cozy-youth-theme](https://github.com/eugenekolo/cozy-youth-theme) - A cozy, friendly, and readable theme for Ghost blog.
 - [kolotheme](https://github.com/eugenekolo/kolotheme) - Dark Ghost blog theme for a developer
 
