@@ -32,7 +32,7 @@
 
 ## Java 
 
-- [CTF-Android-Writeup](https://github.com/xuanyonghao/CTF-Android-Writeup) - 这是最近一年来参加CTF比赛做出来的部分android逆向题目wp
+- [CTF-Android-Writeup](https://github.com/xuanyonghao/CTF-Android-Writeup) - 很久以前参加CTF比赛做出来的部分Android逆向题目wp（瞎写，自用记录）
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -48,7 +48,7 @@
 
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐Captions in two languages for YouTube & Netflix
+- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Captions in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
