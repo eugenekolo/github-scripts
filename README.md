@@ -193,7 +193,7 @@
 - [2013-ctf-game](https://github.com/mitre-cyber-academy/2013-ctf-game) - Repo containing links to all CTF Challenges used in the 2013 MITRE CTF.
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [Malware](https://github.com/RPISEC/Malware) - Course materials for Malware Analysis by RPISEC
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 
 ## Ruby 
