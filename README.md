@@ -57,7 +57,7 @@
 - [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
 - [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
 - [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
-- [UnuglifyJS](https://github.com/eth-srl/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
+- [UnuglifyJS](https://github.com/eth-sri/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
 - [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
