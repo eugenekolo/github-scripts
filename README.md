@@ -182,7 +182,7 @@
 - [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
 - [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that will execute other stuff
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
-- [android-crackme](https://github.com/eshard-old/android-crackme) - You have 8 flags to retrieve.  Crack it already!
+- [android-crackme](https://github.com/eshard-team/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
 - [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
@@ -199,7 +199,6 @@
 ## Ruby 
 
 - [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
-- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
 
@@ -282,6 +281,7 @@
 ## Go 
 
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
 - [pyre](https://github.com/zachlatta/pyre) - tinder cli built at stupid hackathon san francisco 2015
 
