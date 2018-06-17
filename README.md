@@ -198,6 +198,7 @@
 
 ## Ruby 
 
+- [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
