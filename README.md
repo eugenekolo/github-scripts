@@ -48,7 +48,7 @@
 
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Captions in two languages for YouTube & Netflix
+- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -98,6 +98,8 @@
 
 ## Python 
 
+- [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
+- [theftfuzzer](https://github.com/sxcurity/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
 - [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
 - [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
@@ -232,6 +234,7 @@
 
 ## C++ 
 
+- [devilution](https://github.com/galaxyhaxz/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [QBDI](https://github.com/quarkslab/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
