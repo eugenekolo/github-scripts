@@ -234,7 +234,7 @@
 
 ## C++ 
 
-- [devilution](https://github.com/galaxyhaxz/devilution) - Diablo devolved - magic behind the 1996 computer game
+- [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [QBDI](https://github.com/quarkslab/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
