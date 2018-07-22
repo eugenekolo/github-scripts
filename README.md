@@ -98,6 +98,7 @@
 
 ## Python 
 
+- [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
@@ -172,11 +173,12 @@
 
 ## HTML 
 
+- [research](https://github.com/struct/research) - A repo for various research
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) - Modern JavaScript Tutorial
 - [CTF-Writeups](https://github.com/xPowerz/CTF-Writeups) - 
-- [sec-tools](https://github.com/eugenekolo/sec-tools) - 
+- [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
 - [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
@@ -269,6 +271,7 @@
 
 ## CSS 
 
+- [0xbu.github.io](https://github.com/0xBU/0xbu.github.io) - 0xBU.com website source code
 - [csp-testing](https://github.com/eoftedal/csp-testing) - For testing browser support for Content Security Policy
 - [cozy-youth-theme](https://github.com/eugenekolo/cozy-youth-theme) - A cozy, friendly, and readable theme for Ghost blog.
 - [kolotheme](https://github.com/eugenekolo/kolotheme) - Dark Ghost blog theme for a developer
