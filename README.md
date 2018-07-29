@@ -98,6 +98,8 @@
 
 ## Python 
 
+- [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
+- [firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
@@ -185,6 +187,7 @@
 
 ## Others 
 
+- [Exploit-Writeups](https://github.com/Cryptogenic/Exploit-Writeups) - A collection where my current and future writeups for exploits/CTF will go
 - [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
 - [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
 - [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that will execute other stuff
@@ -212,6 +215,7 @@
 
 ## C 
 
+- [pwn_repo](https://github.com/0x01f/pwn_repo) - To store some CTF_pwn_bins and exps
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
 - [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for android vulneribilities
 - [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
@@ -271,6 +275,7 @@
 
 ## CSS 
 
+- [CTF-challenges-by-me](https://github.com/l4wio/CTF-challenges-by-me) - Pwnable|Web Security|Cryptography CTF-style challenges
 - [0xbu.github.io](https://github.com/0xBU/0xbu.github.io) - 0xBU.com website source code
 - [csp-testing](https://github.com/eoftedal/csp-testing) - For testing browser support for Content Security Policy
 - [cozy-youth-theme](https://github.com/eugenekolo/cozy-youth-theme) - A cozy, friendly, and readable theme for Ghost blog.
