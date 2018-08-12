@@ -98,13 +98,16 @@
 
 ## Python 
 
+- [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - Ida Pro plugin
+- [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python
+- [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
 - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
 - [firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
-- [theftfuzzer](https://github.com/sxcurity/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
+- [theftfuzzer](https://github.com/C0RB3N/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
 - [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
 - [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
@@ -175,6 +178,7 @@
 
 ## HTML 
 
+- [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) - 
 - [research](https://github.com/struct/research) - A repo for various research
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
