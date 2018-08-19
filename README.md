@@ -94,10 +94,13 @@
 
 ## Assembly 
 
+- [PwnAdventureZ](https://github.com/Vector35/PwnAdventureZ) - NES zombie survival game made to be hacked
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 
 ## Python 
 
+- [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
+- [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - Ida Pro plugin
 - [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
@@ -191,10 +194,11 @@
 
 ## Others 
 
+- [Android-Malwares](https://github.com/ethicalhackeragnidhra/Android-Malwares) - 
 - [Exploit-Writeups](https://github.com/Cryptogenic/Exploit-Writeups) - A collection where my current and future writeups for exploits/CTF will go
 - [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
 - [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
-- [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that will execute other stuff
+- [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that execute other stuff
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [android-crackme](https://github.com/eshard-team/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
@@ -248,7 +252,7 @@
 ## C++ 
 
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
-- [QBDI](https://github.com/quarkslab/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
+- [QBDI](https://github.com/QBDI/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [dxxd-decrypter](https://github.com/eugenekolo/dxxd-decrypter) - DXXD Ransomware Decrypter
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
