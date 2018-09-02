@@ -103,7 +103,7 @@
 - [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
 - [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - Ida Pro plugin
-- [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python
+- [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
 - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
 - [firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
