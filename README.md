@@ -46,6 +46,7 @@
 
 ## JavaScript 
 
+- [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Amazon Video
@@ -102,7 +103,7 @@
 - [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
 - [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
 - [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
-- [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - Ida Pro plugin
+- [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - 
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
 - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
@@ -195,6 +196,7 @@
 
 ## Others 
 
+- [survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 - [Android-Malwares](https://github.com/ethicalhackeragnidhra/Android-Malwares) - 
 - [Exploit-Writeups](https://github.com/Cryptogenic/Exploit-Writeups) - A collection where my current and future writeups for exploits/CTF will go
 - [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
