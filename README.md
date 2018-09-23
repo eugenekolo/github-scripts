@@ -228,7 +228,7 @@
 
 ## C 
 
-- [pwn_repo](https://github.com/0x01f/pwn_repo) - To store some CTF_pwn_bins and exps
+- [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exps
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
 - [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for android vulneribilities
 - [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
