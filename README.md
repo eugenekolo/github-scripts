@@ -100,6 +100,11 @@
 
 ## Python 
 
+- [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
+- [FRAPL](https://github.com/FriedAppleTeam/FRAPL) - FRAPL Framework
+- [ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
+- [prefix](https://github.com/gaasedelen/prefix) - Function Prefixing for IDA Pro
+- [gdbida](https://github.com/Comsecuris/gdbida) - gdbida - a visual bridge between a GDB session and IDA Pro's disassembler
 - [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
 - [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
 - [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
@@ -125,7 +130,7 @@
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [ida](https://github.com/devttys0/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
-- [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python. Dash Is Productive™
+- [dash](https://github.com/plotly/dash) - Analytical Apps for Python. Dash Is Productive™
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
@@ -256,6 +261,7 @@
 
 ## C++ 
 
+- [Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [QBDI](https://github.com/QBDI/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
 - [SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
