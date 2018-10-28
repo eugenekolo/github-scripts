@@ -67,6 +67,7 @@
 
 ## Makefile 
 
+- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [srclib-c](https://github.com/sourcegraph/srclib-c) - 
 - [memeshop](https://github.com/crowell/memeshop) - exploit challenge from csaw ctf qualifier 2015
 
