@@ -89,6 +89,7 @@
 
 ## Shell 
 
+- [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
 - [github-scripts](https://github.com/eugenekolo/github-scripts) - Some GitHub scripts
@@ -234,6 +235,7 @@
 
 ## C 
 
+- [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
 - [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exps
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
 - [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for android vulneribilities
