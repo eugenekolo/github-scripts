@@ -16,6 +16,7 @@
   - [Assembly](#assembly)
   - [Python](#python)
   - [HTML](#html)
+  - [QML](#qml)
   - [Others](#others)
   - [Ruby](#ruby)
   - [C](#c)
@@ -201,8 +202,13 @@
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
 - [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
 
+## QML 
+
+- [eugenekolo-ctf-challenges](https://github.com/eugenekolo/eugenekolo-ctf-challenges) - 
+
 ## Others 
 
+- [slides](https://github.com/bash-c/slides) - I will store some slides about CTF/Linux/Fuzz in this repo.
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
@@ -228,7 +234,6 @@
 
 ## Ruby 
 
-- [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
@@ -317,6 +322,7 @@
 
 ## Go 
 
+- [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
