@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
@@ -103,6 +104,8 @@
 
 ## Python 
 
+- [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
 - [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
 - [FRAPL](https://github.com/FriedAppleTeam/FRAPL) - FRAPL Framework
 - [ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
@@ -133,7 +136,7 @@
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [ida](https://github.com/devttys0/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
-- [dash](https://github.com/plotly/dash) - Analytical Apps for Python. Dash Is Productive™
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
@@ -164,7 +167,7 @@
 - [flask-user-api](https://github.com/maigfrga/flask-user-api) - 
 - [workshops](https://github.com/0xBU/workshops) - 
 - [crypto-tools](https://github.com/abpolym/crypto-tools) - Some crypto tools I've written
-- [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
+- [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [linux-ransomware-decrypter](https://github.com/eugenekolo/linux-ransomware-decrypter) - Bitdefender's Linux.Encoder.1 Decrypter
 - [ida-patcher](https://github.com/iphelix/ida-patcher) - IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory.
 - [ete](https://github.com/etetoolkit/ete) - Python package for building, comparing, annotating, manipulating and visualising trees. It provides a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
