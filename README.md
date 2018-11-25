@@ -33,7 +33,7 @@
 
 ## Java 
 
-- [CTF-Android-Writeup](https://github.com/xuanyonghao/CTF-Android-Writeup) - 很久以前参加CTF比赛做出来的部分Android逆向题目wp（瞎写，自用记录）
+- [CTF-Android-Writeup](https://github.com/threedr3am/CTF-Android-Writeup) - 很久以前参加CTF比赛做出来的部分Android逆向题目wp（瞎写，自用记录）
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -104,6 +104,7 @@
 
 ## Python 
 
+- [diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
 - [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
@@ -272,6 +273,7 @@
 
 ## C++ 
 
+- [node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [QBDI](https://github.com/QBDI/QBDI) - A Dynamic Binary Instrumentation framework based on LLVM.
