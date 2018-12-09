@@ -50,7 +50,7 @@
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
-- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Amazon Video
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
@@ -104,6 +104,7 @@
 
 ## Python 
 
+- [GitCTF](https://github.com/SoftSec-KAIST/GitCTF) - Git-based CTF
 - [diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
@@ -204,7 +205,7 @@
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - :tv: Probably the coolest anime discovery platform around.
+- [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 
 ## QML 
 
