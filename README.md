@@ -239,6 +239,7 @@
 
 ## Ruby 
 
+- [seccomp-tools](https://github.com/david942j/seccomp-tools) - Provide powerful tools for seccomp analysis
 - [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
