@@ -91,6 +91,7 @@
 
 ## Shell 
 
+- [Zines](https://github.com/fdiskyou/Zines) - Mirror of my favourite hacking Zines for the lulz, nostalgy, and reference
 - [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
@@ -213,6 +214,7 @@
 
 ## Others 
 
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [slides](https://github.com/bash-c/slides) - I will store some slides about CTF/Linux/Fuzz in this repo.
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
