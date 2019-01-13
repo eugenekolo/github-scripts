@@ -49,6 +49,7 @@
 
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
+- [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Amazon Video
@@ -105,6 +106,10 @@
 
 ## Python 
 
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+- [pigaios](https://github.com/joxeankoret/pigaios) - A tool for matching and diffing source codes directly against binaries.
+- [internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers.
+- [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
 - [GitCTF](https://github.com/SoftSec-KAIST/GitCTF) - Git-based CTF
 - [diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
@@ -125,7 +130,6 @@
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
-- [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [theftfuzzer](https://github.com/C0RB3N/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
 - [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
@@ -277,6 +281,9 @@
 
 ## C++ 
 
+- [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM application (CTF style exploitation tutorial)
+- [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
+- [HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
 - [node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
 - [devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
