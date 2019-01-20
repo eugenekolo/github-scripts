@@ -201,6 +201,7 @@
 
 ## HTML 
 
+- [MyArticles](https://github.com/zhengmin1989/MyArticles) - 蒸米的文章（iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等）
 - [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) - 
 - [research](https://github.com/struct/research) - A repo for various research
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
@@ -218,6 +219,7 @@
 
 ## Others 
 
+- [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [slides](https://github.com/bash-c/slides) - I will store some slides about CTF/Linux/Fuzz in this repo.
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
