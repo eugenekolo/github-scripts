@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [pigaios](https://github.com/joxeankoret/pigaios) - A tool for matching and diffing source codes directly against binaries.
 - [internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers.
@@ -219,6 +220,7 @@
 
 ## Others 
 
+- [browser-pwn](https://github.com/m1ghtym0/browser-pwn) - An updated collection of resources targeting browser-exploitation.
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [slides](https://github.com/bash-c/slides) - I will store some slides about CTF/Linux/Fuzz in this repo.
