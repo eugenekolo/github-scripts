@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [pigaios](https://github.com/joxeankoret/pigaios) - A tool for matching and diffing source codes directly against binaries.
@@ -208,7 +209,7 @@
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
 - [javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) - Modern JavaScript Tutorial
-- [CTF-Writeups](https://github.com/xPowerz/CTF-Writeups) - 
+- [CTF-Writeups](https://github.com/birdsoup/CTF-Writeups) - 
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
@@ -236,7 +237,7 @@
 - [android-crackme](https://github.com/eshard-team/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
 - [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
-- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
 - [2015-ctf-game](https://github.com/mitre-cyber-academy/2015-ctf-game) - Repo containing links to all CTF Challenges used in the 2015 MITRE CTF.
