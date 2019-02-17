@@ -122,7 +122,7 @@
 - [prefix](https://github.com/gaasedelen/prefix) - Function Prefixing for IDA Pro
 - [gdbida](https://github.com/Comsecuris/gdbida) - gdbida - a visual bridge between a GDB session and IDA Pro's disassembler
 - [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
-- [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
+- [SublimeTodoReview](https://github.com/jonathanrdelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
 - [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - 
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
