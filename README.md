@@ -150,7 +150,7 @@
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
 - [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -260,7 +260,7 @@
 - [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
 - [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exps
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
-- [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for android vulneribilities
+- [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for vulneribilities I found (mostly)
 - [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
 - [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
