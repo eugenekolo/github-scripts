@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [collisions](https://github.com/corkami/collisions) - Hash collisions
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -123,7 +124,6 @@
 - [gdbida](https://github.com/Comsecuris/gdbida) - gdbida - a visual bridge between a GDB session and IDA Pro's disassembler
 - [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
 - [SublimeTodoReview](https://github.com/jonathanrdelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
-- [HQSolver](https://github.com/B1naryKill3r/HQSolver) - Tool for predicting answers in HQ Trivia!
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - 
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
