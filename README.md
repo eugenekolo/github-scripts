@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [amazon-dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want.
 - [collisions](https://github.com/corkami/collisions) - Hash collisions
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
@@ -217,14 +218,14 @@
 
 ## QML 
 
-- [eugenekolo-ctf-challenges](https://github.com/eugenekolo/eugenekolo-ctf-challenges) - 
+- [eugenekolo-ctf-challenges](https://github.com/eugenekolo/eugenekolo-ctf-challenges) - CTF challenges I've made in the past
 
 ## Others 
 
 - [browser-pwn](https://github.com/m1ghtym0/browser-pwn) - An updated collection of resources targeting browser-exploitation.
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-- [slides](https://github.com/bash-c/slides) - I will store some slides about CTF/Linux/Fuzz in this repo.
+- [slides](https://github.com/bash-c/slides) - won't maintain
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
@@ -286,6 +287,7 @@
 
 ## C++ 
 
+- [calculator](https://github.com/Microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM application (CTF style exploitation tutorial)
 - [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
 - [HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
