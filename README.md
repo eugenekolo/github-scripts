@@ -237,7 +237,7 @@
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [android-crackme](https://github.com/eshard-team/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
-- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here records some tips about pwn.
+- [CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips) - Here record some tips about pwn. Something is obsoleted and won't be updated. Sorry about that.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [mms](https://github.com/struct/mms) - Modern Memory Safety in C/C++
 - [emptyrepo](https://github.com/crowell/emptyrepo) - an empty repository
