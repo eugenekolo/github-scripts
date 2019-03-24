@@ -59,7 +59,7 @@
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [aggle](https://github.com/kierk/aggle) - Course project for EC500 Agile Software Development for ECE Applications.
-- [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
+- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The headless Node.js CMS for professional publishing
 - [atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
 - [UnuglifyJS](https://github.com/eth-sri/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -222,6 +222,7 @@
 
 ## Others 
 
+- [fuzzing_paper](https://github.com/bin2415/fuzzing_paper) - puzzing related paper
 - [browser-pwn](https://github.com/m1ghtym0/browser-pwn) - An updated collection of resources targeting browser-exploitation.
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
