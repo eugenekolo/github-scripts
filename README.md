@@ -52,7 +52,7 @@
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Amazon Video
+- [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -165,7 +165,7 @@
 - [ctf-writeups](https://github.com/ispoleet/ctf-writeups) - Selected CTF writeups
 - [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
+- [pyshell](https://github.com/praetorian-code/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -209,7 +209,7 @@
 - [research](https://github.com/struct/research) - A repo for various research
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
-- [javascript.info](https://github.com/javascript-tutorial/javascript.info) - Modern JavaScript Tutorial
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [CTF-Writeups](https://github.com/birdsoup/CTF-Writeups) - 
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
