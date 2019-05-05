@@ -52,6 +52,7 @@
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
@@ -139,7 +140,6 @@
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
 - [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [focuson](https://github.com/uber/focuson) - A tool to surface security issues in python code
 - [pre-commit-python-sorter](https://github.com/FalconSocial/pre-commit-python-sorter) - A pre-commit hook to sort your Python imports.
 - [hqtrivia-automation](https://github.com/blissend/hqtrivia-automation) - Automate finding better answers in HQ Trivia. This is for educational purposes only!
