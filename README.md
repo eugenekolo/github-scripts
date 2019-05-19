@@ -209,7 +209,7 @@
 - [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) - 
 - [research](https://github.com/struct/research) - A repo for various research
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
-- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
+- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [CTF-Writeups](https://github.com/birdsoup/CTF-Writeups) - 
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
