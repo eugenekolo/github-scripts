@@ -53,6 +53,7 @@
 - [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
 - [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
@@ -93,7 +94,6 @@
 ## Shell 
 
 - [Zines](https://github.com/fdiskyou/Zines) - Mirror of my favourite hacking Zines for the lulz, nostalgy, and reference
-- [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
 - [github-scripts](https://github.com/eugenekolo/github-scripts) - Some GitHub scripts
@@ -118,6 +118,7 @@
 - [diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+- [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
 - [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
 - [FRAPL](https://github.com/FriedAppleTeam/FRAPL) - FRAPL Framework
 - [ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
@@ -146,7 +147,6 @@
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [ida](https://github.com/devttys0/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
