@@ -259,6 +259,7 @@
 
 ## C 
 
+- [memctl](https://github.com/bazad/memctl) - An iOS kernel introspection tool.
 - [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
 - [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp) - This project contains pocs and exploits for vulneribilities I found (mostly)
@@ -287,6 +288,7 @@
 
 ## C++ 
 
+- [art-tracer](https://github.com/oleavr/art-tracer) - ART tracing research
 - [calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM application (CTF style exploitation tutorial)
 - [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
