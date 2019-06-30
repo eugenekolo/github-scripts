@@ -93,6 +93,7 @@
 
 ## Shell 
 
+- [LibcSearcher](https://github.com/lieanu/LibcSearcher) - glibc offset search for ctf.
 - [Zines](https://github.com/fdiskyou/Zines) - Mirror of my favourite hacking Zines for the lulz, nostalgy, and reference
 - [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [vbox](https://github.com/eugenekolo/vbox) - Easier to use wrapper around vboxmanage
@@ -106,6 +107,7 @@
 
 ## Python 
 
+- [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [amazon-dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want.
 - [collisions](https://github.com/corkami/collisions) - Hash collisions
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
@@ -130,7 +132,7 @@
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
 - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
 - [firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
-- [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exps
+- [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exploits for self-practice
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
