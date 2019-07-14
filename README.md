@@ -260,6 +260,7 @@
 
 ## C 
 
+- [How2Kernel](https://github.com/R3x/How2Kernel) - This Repository aims at giving a basic idea about Kernel Exploitation.
 - [memctl](https://github.com/bazad/memctl) - An iOS kernel introspection tool.
 - [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
 - [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
