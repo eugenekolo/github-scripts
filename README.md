@@ -185,7 +185,7 @@
 - [project-euler](https://github.com/eugenekolo/project-euler) - Project Euler solutions in diferent languages
 - [viper](https://github.com/viper-framework/viper) - Binary analysis and management framework
 - [libc-binary-collection](https://github.com/molnarg/libc-binary-collection) - A collection of more than 1000 binary libc files
-- [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
+- [grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
 - [pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups) - A colleciton of CTF write-ups all using pwntools
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
