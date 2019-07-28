@@ -223,6 +223,8 @@
 
 ## Others 
 
+- [android-7-9-png-bug](https://github.com/marcinguy/android-7-9-png-bug) - CVE-2019-1987
+- [CVE-2019-2107](https://github.com/marcinguy/CVE-2019-2107) - CVE-2019-2107
 - [fuzzing_paper](https://github.com/bin2415/fuzzing_paper) - puzzing related paper
 - [browser-pwn](https://github.com/m1ghtym0/browser-pwn) - An updated collection of resources targeting browser-exploitation.
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
