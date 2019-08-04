@@ -292,6 +292,8 @@
 
 ## C++ 
 
+- [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection) - MouClassInputInjection implements a kernel interface for injecting mouse input data packets into the input data stream of HID USB mouse devices.
+- [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook) - MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
 - [art-tracer](https://github.com/oleavr/art-tracer) - ART tracing research
 - [calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM application (CTF style exploitation tutorial)
