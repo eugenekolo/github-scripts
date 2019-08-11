@@ -32,7 +32,6 @@
 
 ## Java 
 
-- [CTF-Android-Writeup](https://github.com/threedr3am/CTF-Android-Writeup) - 很久以前参加CTF比赛做出来的部分Android逆向题目wp（瞎写，自用记录）
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
