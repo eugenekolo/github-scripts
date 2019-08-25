@@ -83,6 +83,7 @@
 
 ## Jupyter Notebook 
 
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 
 ## Matlab 
@@ -110,7 +111,6 @@
 - [collisions](https://github.com/corkami/collisions) - Hash collisions
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
-- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [pigaios](https://github.com/joxeankoret/pigaios) - A tool for matching and diffing source codes directly against binaries.
 - [internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers.
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) - 
