@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [amazon-dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want.
 - [collisions](https://github.com/corkami/collisions) - Hash collisions
@@ -174,7 +175,7 @@
 - [ec700-charlie-3](https://github.com/BUseclab/ec700-charlie-3) - 
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz - framework for black-box CAN network analysis
 - [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
-- [flask-user-api](https://github.com/maigfrga/flask-user-api) - 
+- [flask-user-api](https://github.com/mfranco/flask-user-api) - 
 - [workshops](https://github.com/0xBU/workshops) - 
 - [crypto-tools](https://github.com/abpolym/crypto-tools) - Some crypto tools I've written
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
@@ -236,7 +237,7 @@
 - [Exploit-Writeups](https://github.com/Cryptogenic/Exploit-Writeups) - A collection where my current and future writeups for exploits/CTF will go
 - [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
 - [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
-- [Code-Execution](https://github.com/MoooKitty/Code-Execution) - Executables that execute other stuff
+- [Code-Execution](https://github.com/moohax/Code-Execution) - Executables that execute other stuff
 - [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [android-crackme](https://github.com/eshard-team/android-crackme) - You have 8 flags to retrieve.  Crack it already!
 - [iOS](https://github.com/ansjdnakjdnajkd/iOS) - Most usable tools for iOS penetration testing
