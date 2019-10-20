@@ -78,7 +78,7 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
 - [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
-- [perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter (MIRROR ONLY)
+- [perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter.
 - [watson-perl](https://github.com/nhmood/watson-perl) - 
 
 ## Jupyter Notebook 
@@ -292,6 +292,7 @@
 
 ## C++ 
 
+- [Street-Party](https://github.com/googleprojectzero/Street-Party) - Street Party is a suite of tools that allows the RTP streams of video conferencing implementations to be viewed and modified.
 - [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection) - MouClassInputInjection implements a kernel interface for injecting mouse input data packets into the input data stream of HID USB mouse devices.
 - [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook) - MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
 - [art-tracer](https://github.com/oleavr/art-tracer) - ART tracing research
