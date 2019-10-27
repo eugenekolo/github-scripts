@@ -78,7 +78,7 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
 - [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
-- [perl5](https://github.com/Perl/perl5) - The Perl 5 language interpreter.
+- [perl5](https://github.com/Perl/perl5) - 🐫The Perl 5 language interpreter.
 - [watson-perl](https://github.com/nhmood/watson-perl) - 
 
 ## Jupyter Notebook 
@@ -297,7 +297,7 @@
 - [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook) - MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
 - [art-tracer](https://github.com/oleavr/art-tracer) - ART tracing research
 - [calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM application (CTF style exploitation tutorial)
+- [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM/ARM64 application (CTF style exploitation tutorial)
 - [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
 - [HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
 - [node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
