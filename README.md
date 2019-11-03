@@ -205,6 +205,7 @@
 
 ## HTML 
 
+- [bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [MyArticles](https://github.com/zhengmin1989/MyArticles) - 蒸米的文章（iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等）
 - [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) - 
 - [research](https://github.com/struct/research) - A repo for various research
