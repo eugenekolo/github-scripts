@@ -109,7 +109,7 @@
 - [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [amazon-dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want.
-- [collisions](https://github.com/corkami/collisions) - Hash collisions
+- [collisions](https://github.com/corkami/collisions) - Hash collisions and their exploitations
 - [bfac](https://github.com/mazen160/bfac) - BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.
 - [on-pwning](https://github.com/integeruser/on-pwning) - My solutions to some CTF challenges and a list of interesting resources about pwning stuff
 - [pigaios](https://github.com/joxeankoret/pigaios) - A tool for matching and diffing source codes directly against binaries.
@@ -224,6 +224,7 @@
 
 ## Others 
 
+- [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
 - [android-7-9-png-bug](https://github.com/marcinguy/android-7-9-png-bug) - CVE-2019-1987
 - [CVE-2019-2107](https://github.com/marcinguy/CVE-2019-2107) - CVE-2019-2107
 - [fuzzing_paper](https://github.com/bin2415/fuzzing_paper) - puzzing related paper
@@ -263,6 +264,7 @@
 
 ## C 
 
+- [ktrw](https://github.com/googleprojectzero/ktrw) - An iOS kernel debugger based on a KTRR bypass for A11 iPhones that works with LLDB.
 - [How2Kernel](https://github.com/R3x/How2Kernel) - This Repository aims at giving a basic idea about Kernel Exploitation.
 - [memctl](https://github.com/bazad/memctl) - An iOS kernel introspection tool.
 - [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
