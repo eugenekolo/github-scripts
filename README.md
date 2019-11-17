@@ -224,6 +224,7 @@
 
 ## Others 
 
+- [xss-cheatsheet-data](https://github.com/PortSwigger/xss-cheatsheet-data) - This repository contains all the XSS cheatsheet data to allow contributions from the community.
 - [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
 - [android-7-9-png-bug](https://github.com/marcinguy/android-7-9-png-bug) - CVE-2019-1987
 - [CVE-2019-2107](https://github.com/marcinguy/CVE-2019-2107) - CVE-2019-2107
