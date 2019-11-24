@@ -197,7 +197,7 @@
 - [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
-- [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .
+- [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
