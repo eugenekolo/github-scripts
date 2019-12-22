@@ -45,6 +45,7 @@
 
 ## JavaScript 
 
+- [frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
@@ -106,6 +107,7 @@
 
 ## Python 
 
+- [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 - [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
 - [amazon-dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want.
