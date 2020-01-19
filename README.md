@@ -27,11 +27,13 @@
   - [Swift](#swift)
   - [OCaml](#ocaml)
   - [C#](#c#)
+  - [ActionScript](#actionscript)
   - [Go](#go)
   - [PHP](#php)
 
 ## Java 
 
+- [FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) - Inject frida agents on local processes through an Android app
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -45,6 +47,8 @@
 
 ## JavaScript 
 
+- [xia0FridaLib](https://github.com/4ch12dy/xia0FridaLib) - some useful frida script library for reversing and debugging
+- [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
 - [frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
@@ -298,7 +302,6 @@
 
 ## C++ 
 
-- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV, now open and public!
 - [Street-Party](https://github.com/googleprojectzero/Street-Party) - Street Party is a suite of tools that allows the RTP streams of video conferencing implementations to be viewed and modified.
 - [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection) - MouClassInputInjection implements a kernel interface for injecting mouse input data packets into the input data stream of HID USB mouse devices.
 - [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook) - MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
@@ -355,6 +358,10 @@
 ## C# # 
 
 - [NBug](https://github.com/soygul/NBug) - Automated bug reporting library for .NET
+
+## ActionScript 
+
+- [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV!
 
 ## Go 
 
