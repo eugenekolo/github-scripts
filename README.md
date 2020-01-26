@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [letsgetpersonal](https://github.com/nhmood/letsgetpersonal) - A simple Chrome Extension to move the "Personal Life" section on Wikipedia pages up to the top.
 - [xia0FridaLib](https://github.com/4ch12dy/xia0FridaLib) - some useful frida script library for reversing and debugging
 - [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
 - [frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
