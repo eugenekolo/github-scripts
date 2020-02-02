@@ -33,6 +33,7 @@
 
 ## Java 
 
+- [param-miner](https://github.com/PortSwigger/param-miner) - 
 - [FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) - Inject frida agents on local processes through an Android app
 - [santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [kololib](https://github.com/eugenekolo/kololib) - Library of tools, testng things, and bring up material I use.
@@ -112,6 +113,7 @@
 
 ## Python 
 
+- [qark](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 - [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [Tiny-URL-Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
@@ -212,6 +214,7 @@
 
 ## HTML 
 
+- [androwarn](https://github.com/maaaaz/androwarn) - Yet another static code analyzer for malicious Android applications
 - [bare-hugo-theme](https://github.com/orf/bare-hugo-theme) - A Hugo theme based on Bulma.io
 - [MyArticles](https://github.com/zhengmin1989/MyArticles) - 蒸米的文章（iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等）
 - [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) - 
@@ -231,6 +234,8 @@
 
 ## Others 
 
+- [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
+- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
 - [xss-cheatsheet-data](https://github.com/PortSwigger/xss-cheatsheet-data) - This repository contains all the XSS cheatsheet data to allow contributions from the community.
 - [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
 - [android-7-9-png-bug](https://github.com/marcinguy/android-7-9-png-bug) - CVE-2019-1987
