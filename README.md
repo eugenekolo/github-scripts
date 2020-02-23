@@ -48,8 +48,9 @@
 
 ## JavaScript 
 
+- [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [letsgetpersonal](https://github.com/nhmood/letsgetpersonal) - A simple Chrome Extension to move the "Personal Life" section on Wikipedia pages up to the top.
-- [xia0FridaLib](https://github.com/4ch12dy/xia0FridaLib) - some useful frida script library for reversing and debugging
+- [FridaLib](https://github.com/4ch12dy/FridaLib) - iOS/android frida library for reversing
 - [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
 - [frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
