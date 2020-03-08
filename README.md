@@ -235,6 +235,7 @@
 
 ## Others 
 
+- [IosHackStudy](https://github.com/pandazheng/IosHackStudy) - IOS安全学习资料汇总
 - [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools are belong to their respective owners. I'm just maintaining it.
 - [xss-cheatsheet-data](https://github.com/PortSwigger/xss-cheatsheet-data) - This repository contains all the XSS cheatsheet data to allow contributions from the community.
