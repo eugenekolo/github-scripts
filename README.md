@@ -135,7 +135,7 @@
 - [ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
 - [prefix](https://github.com/gaasedelen/prefix) - Function Prefixing for IDA Pro
 - [gdbida](https://github.com/Comsecuris/gdbida) - gdbida - a visual bridge between a GDB session and IDA Pro's disassembler
-- [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
+- [iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
 - [SublimeTodoReview](https://github.com/jonathanrdelgado/SublimeTodoReview) - A SublimeText plugin for reviewing todo (and other) comments within your code.
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes
 - [xsssniper](https://github.com/gbrindisi/xsssniper) - An automatic XSS discovery tool
@@ -157,7 +157,7 @@
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [ida](https://github.com/devttys0/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
