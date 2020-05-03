@@ -48,6 +48,7 @@
 
 ## JavaScript 
 
+- [frida-scripts](https://github.com/secRet-re/frida-scripts) - A collection of secRet frida scripts
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [letsgetpersonal](https://github.com/nhmood/letsgetpersonal) - A simple Chrome Extension to move the "Personal Life" section on Wikipedia pages up to the top.
 - [FridaLib](https://github.com/4ch12dy/FridaLib) - iOS/android frida library for reversing
