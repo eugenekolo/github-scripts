@@ -48,6 +48,7 @@
 
 ## JavaScript 
 
+- [eslint-plugin-apklab-frida](https://github.com/avast/eslint-plugin-apklab-frida) - ESLint plugin & config for the Frida scripts used in the apklab.io platform.
 - [frida-scripts](https://github.com/secRet-re/frida-scripts) - A collection of secRet frida scripts
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [letsgetpersonal](https://github.com/nhmood/letsgetpersonal) - A simple Chrome Extension to move the "Personal Life" section on Wikipedia pages up to the top.
@@ -238,6 +239,8 @@
 
 ## Others 
 
+- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+- [ida_ipython](https://github.com/ChiChou/ida_ipython) - An IDA Pro Plugin for embedding an IPython Kernel
 - [IosHackStudy](https://github.com/pandazheng/IosHackStudy) - IOS安全学习资料汇总
 - [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
@@ -270,7 +273,7 @@
 - [2013-ctf-game](https://github.com/mitre-cyber-academy/2013-ctf-game) - Repo containing links to all CTF Challenges used in the 2013 MITRE CTF.
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [Malware](https://github.com/RPISEC/Malware) - Course materials for Malware Analysis by RPISEC
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 
 ## Ruby 
