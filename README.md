@@ -63,7 +63,7 @@
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
-- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
