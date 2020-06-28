@@ -14,6 +14,7 @@
   - [Matlab](#matlab)
   - [Shell](#shell)
   - [Assembly](#assembly)
+  - [PLSQL](#plsql)
   - [Python](#python)
   - [HTML](#html)
   - [QML](#qml)
@@ -22,6 +23,7 @@
   - [C](#c)
   - [LLVM](#llvm)
   - [C++](#c++)
+  - [Objective-C](#objective-c)
   - [Vim script](#vim script)
   - [CSS](#css)
   - [Swift](#swift)
@@ -88,7 +90,7 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
 - [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
-- [perl5](https://github.com/Perl/perl5) - 🐫The Perl 5 language interpreter.
+- [perl5](https://github.com/Perl/perl5) - 🐫The Perl language interpreter.
 - [watson-perl](https://github.com/nhmood/watson-perl) - 
 
 ## Jupyter Notebook 
@@ -116,8 +118,15 @@
 - [PwnAdventureZ](https://github.com/Vector35/PwnAdventureZ) - NES zombie survival game made to be hacked
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 
+## PLSQL 
+
+- [idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
+
 ## Python 
 
+- [abyss](https://github.com/patois/abyss) - abyss - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output
+- [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
+- [api_palette](https://github.com/0xKira/api_palette) - A code-searching/completion tool, for IDA APIs
 - [qark](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 - [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
@@ -285,7 +294,7 @@
 
 ## C 
 
-- [ktrw](https://github.com/googleprojectzero/ktrw) - An iOS kernel debugger based on a KTRR bypass for A11 iPhones that works with LLDB.
+- [ktrw](https://github.com/googleprojectzero/ktrw) - An iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.
 - [How2Kernel](https://github.com/R3x/How2Kernel) - This Repository aims at giving a basic idea about Kernel Exploitation.
 - [memctl](https://github.com/bazad/memctl) - An iOS kernel introspection tool.
 - [ctf-writeups](https://github.com/david942j/ctf-writeups) - Collection of scripts and writeups
@@ -348,6 +357,10 @@
 - [vld](https://github.com/KindDragon/vld) - Visual Leak Detector for Visual C++ 2008-2015
 - [cbang](https://github.com/CauldronDevelopmentLLC/cbang) - C! (cbang) is a library of cross-platform C++ utilities.
 - [packJPG](https://github.com/packjpg/packJPG) - A compression program for further compressing JPEG image files
+
+## Objective-C 
+
+- [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) - A collection of types & functions definitions useful for Objective-C binaries analysis.
 
 ## Vim script 
 
