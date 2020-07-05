@@ -124,6 +124,7 @@
 
 ## Python 
 
+- [IDAGolangHelper](https://github.com/sibears/IDAGolangHelper) - Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary
 - [abyss](https://github.com/patois/abyss) - abyss - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output
 - [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
 - [api_palette](https://github.com/0xKira/api_palette) - A code-searching/completion tool, for IDA APIs
