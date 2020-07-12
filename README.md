@@ -50,6 +50,7 @@
 
 ## JavaScript 
 
+- [postMessage-logger](https://github.com/opnsec/postMessage-logger) - Simple "postMessage logger" Chrome extension
 - [eslint-plugin-apklab-frida](https://github.com/avast/eslint-plugin-apklab-frida) - ESLint plugin & config for the Frida scripts used in the apklab.io platform.
 - [frida-scripts](https://github.com/secRet-re/frida-scripts) - A collection of secRet frida scripts
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -124,6 +125,8 @@
 
 ## Python 
 
+- [StagMan](https://github.com/c3r34lk1ll3r/StagMan) - An helper for mobile applications analysis
+- [starboard](https://github.com/half-cambodian-hacker-man/starboard) - Personal link aggregator for interesting code projects: Consolidate stars across all git forges!
 - [IDAGolangHelper](https://github.com/sibears/IDAGolangHelper) - Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary
 - [abyss](https://github.com/patois/abyss) - abyss - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output
 - [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
