@@ -20,6 +20,7 @@
   - [QML](#qml)
   - [Others](#others)
   - [Ruby](#ruby)
+  - [Logos](#logos)
   - [C](#c)
   - [LLVM](#llvm)
   - [C++](#c++)
@@ -89,7 +90,6 @@
 ## Perl 
 
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [RegRipper2.8](https://github.com/keydet89/RegRipper2.8) - RegRipper version 2.8
 - [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
 - [perl5](https://github.com/Perl/perl5) - 🐫The Perl language interpreter.
 - [watson-perl](https://github.com/nhmood/watson-perl) - 
@@ -172,7 +172,7 @@
 - [hqtrivia-automation](https://github.com/blissend/hqtrivia-automation) - Automate finding better answers in HQ Trivia. This is for educational purposes only!
 - [hqtrivia](https://github.com/lishiyo/hqtrivia) - hack HQ trivia with OCR and google search
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
-- [ida](https://github.com/devttys0/ida) - 
+- [ida](https://github.com/tacnetsol/ida) - 
 - [ctf-crypto-writeups](https://github.com/sonickun/ctf-crypto-writeups) - 
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
@@ -295,6 +295,10 @@
 - [blue_hydra](https://github.com/pwnieexpress/blue_hydra) - Blue Hydra
 - [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [watson-ruby](https://github.com/nhmood/watson-ruby) - 
+
+## Logos 
+
+- [GlobalWebInspect](https://github.com/ChiChou/GlobalWebInspect) - Enable WebView remote inspector for every app
 
 ## C 
 
