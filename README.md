@@ -105,6 +105,7 @@
 
 ## Shell 
 
+- [easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [LibcSearcher](https://github.com/lieanu/LibcSearcher) - glibc offset search for ctf.
 - [Zines](https://github.com/fdiskyou/Zines) - Mirror of my favourite hacking Zines for the lulz, nostalgy, and reference
@@ -311,6 +312,7 @@
 - [HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Rhme2 challenge (2016)
 - [cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
+- [Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [armadito-av](https://github.com/armadito/armadito-av) - Armadito antivirus main repository
 - [ctf-training](https://github.com/TowerofHanoi/ctf-training) - Repository with the material of the Tower of Hanoi introductory briefings on binary exploitation
 - [chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
@@ -354,7 +356,6 @@
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [iaito](https://github.com/hteso/iaito) - This project has been moved to:
 - [hexrays_tools](https://github.com/nihilus/hexrays_tools) - 
-- [Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
 - [CrowdDetox](https://github.com/CrowdStrike/CrowdDetox) - 
 - [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - C++ application that uses memory and code hooks to detect packers
