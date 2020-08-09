@@ -253,7 +253,7 @@
 
 ## Others 
 
-- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+- [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [ida_ipython](https://github.com/ChiChou/ida_ipython) - An IDA Pro Plugin for embedding an IPython Kernel
 - [IosHackStudy](https://github.com/pandazheng/IosHackStudy) - IOS安全学习资料汇总
 - [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
@@ -340,7 +340,7 @@
 - [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook) - MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
 - [art-tracer](https://github.com/oleavr/art-tracer) - ART tracing research
 - [calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM/ARM64 application (CTF style exploitation tutorial)
+- [exploit_me](https://github.com/bkerler/exploit_me) - Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 14 vulnerability techniques)
 - [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) - Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
 - [HexType](https://github.com/HexHive/HexType) - HexType: Efficient Detection of Type Confusion Errors for C++
 - [node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
