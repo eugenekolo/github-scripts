@@ -262,7 +262,7 @@
 - [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
 - [android-7-9-png-bug](https://github.com/marcinguy/android-7-9-png-bug) - CVE-2019-1987
 - [CVE-2019-2107](https://github.com/marcinguy/CVE-2019-2107) - CVE-2019-2107
-- [fuzzing_paper](https://github.com/bin2415/fuzzing_paper) - puzzing related paper
+- [fuzzing_paper](https://github.com/bin2415/fuzzing_paper) - fuzzing related paper
 - [browser-pwn](https://github.com/m1ghtym0/browser-pwn) - An updated collection of resources targeting browser-exploitation.
 - [ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
