@@ -194,7 +194,7 @@
 - [RSAExploits](https://github.com/eazebu/RSAExploits) - 
 - [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [pyshell](https://github.com/praetorian-code/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
+- [pyshell](https://github.com/praetorian-inc/pyshell) - PyShell makes interacting with web-based command injection less painful, emulating the feel of an interactive shell as much as possible.
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [PS4-3.55-Code-Execution-PoC](https://github.com/Fire30/PS4-3.55-Code-Execution-PoC) - 
 - [flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
