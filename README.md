@@ -68,7 +68,7 @@
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -84,7 +84,6 @@
 
 ## Makefile 
 
-- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [srclib-c](https://github.com/sourcegraph/srclib-c) - 
 - [memeshop](https://github.com/crowell/memeshop) - exploit challenge from csaw ctf qualifier 2015
 
@@ -149,6 +148,7 @@
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
+- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
 - [FRAPL](https://github.com/FriedAppleTeam/FRAPL) - FRAPL Framework
 - [ida_ea](https://github.com/1111joe1111/ida_ea) - A set of exploitation/reversing aids for IDA
@@ -255,7 +255,6 @@
 ## Others 
 
 - [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-- [ida_ipython](https://github.com/ChiChou/ida_ipython) - An IDA Pro Plugin for embedding an IPython Kernel
 - [IosHackStudy](https://github.com/pandazheng/IosHackStudy) - IOS安全学习资料汇总
 - [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
