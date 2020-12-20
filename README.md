@@ -127,7 +127,7 @@
 ## Python 
 
 - [StagMan](https://github.com/c3r34lk1ll3r/StagMan) - An helper for mobile applications analysis
-- [starboard](https://github.com/half-cambodian-hacker-man/starboard) - Personal link aggregator for interesting code projects: Consolidate stars across all git forges!
+- [starboard](https://github.com/videogame-hacker/starboard) - Personal link aggregator for interesting code projects: Consolidate stars across all git forges!
 - [IDAGolangHelper](https://github.com/sibears/IDAGolangHelper) - Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary
 - [abyss](https://github.com/patois/abyss) - abyss - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output
 - [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
@@ -147,7 +147,7 @@
 - [diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [AndBug](https://github.com/swdunlop/AndBug) - Android Debugging Library
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools created mostly in Python. CTFs, pentests and so on
+- [security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools, mostly in Bash and Python. CTFs, Bug Bounty and other stuff.
 - [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [IDA-Function-Tagger](https://github.com/alessandrogario/IDA-Function-Tagger) - This IDAPython script tags subroutines according to their use of imported functions
 - [FRAPL](https://github.com/FriedAppleTeam/FRAPL) - FRAPL Framework
