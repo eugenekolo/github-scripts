@@ -165,7 +165,6 @@
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [theftfuzzer](https://github.com/lc/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
-- [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - Using Intel's PIN tool to solve CTF problems
 - [Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
