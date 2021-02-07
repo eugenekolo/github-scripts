@@ -60,7 +60,7 @@
 - [FridaLib](https://github.com/4ch12dy/FridaLib) - iOS/android frida library for reversing
 - [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
 - [frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
-- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
