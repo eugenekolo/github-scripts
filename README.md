@@ -402,7 +402,7 @@
 
 ## Go 
 
-- [marblerun](https://github.com/edgelesssys/marblerun) - Marblerun is the service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native
+- [marblerun](https://github.com/edgelesssys/marblerun) - Marblerun is the service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native, 100% confidential
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
