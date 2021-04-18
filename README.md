@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [TypeScript](#typescript)
   - [Java](#java)
   - [Scala](#scala)
   - [JavaScript](#javascript)
@@ -32,6 +33,10 @@
   - [ActionScript](#actionscript)
   - [Go](#go)
   - [PHP](#php)
+
+## TypeScript 
+
+- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
 ## Java 
 
@@ -63,7 +68,6 @@
 - [appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [pwnjs](https://github.com/theori-io/pwnjs) - A Javascript library for browser exploitation
-- [juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
 - [racer](https://github.com/sakurity/racer) - One-click utility to test race conditions
