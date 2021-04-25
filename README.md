@@ -134,6 +134,7 @@
 - [abyss](https://github.com/patois/abyss) - abyss - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output
 - [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
 - [api_palette](https://github.com/0xKira/api_palette) - A code-searching/completion tool, for IDA APIs
+- [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [qark](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 - [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
@@ -258,7 +259,6 @@
 
 - [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [IosHackStudy](https://github.com/pandazheng/IosHackStudy) - IOS安全学习资料汇总
-- [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [xss-cheatsheet-data](https://github.com/PortSwigger/xss-cheatsheet-data) - This repository contains all the XSS cheatsheet data to allow contributions from the community.
 - [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1
