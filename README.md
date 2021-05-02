@@ -182,7 +182,7 @@
 - [ctfs](https://github.com/Jinmo/ctfs) - ctf exploit codes or writeups
 - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
-- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [peda-heap](https://github.com/Mipu94/peda-heap) - Some new commands debug heap for peda
