@@ -94,7 +94,7 @@
 
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [Academic-Writing-Check](https://github.com/devd/Academic-Writing-Check) - check for passive words, weasel words, duplicate words, typographical errors and words strunk & white don't like
-- [perl5](https://github.com/Perl/perl5) - 🐫The Perl language interpreter.
+- [perl5](https://github.com/Perl/perl5) - 🐫 The Perl programming language
 - [watson-perl](https://github.com/nhmood/watson-perl) - 
 
 ## Jupyter Notebook 
@@ -360,7 +360,7 @@
 - [iaito](https://github.com/hteso/iaito) - This project has been moved to:
 - [hexrays_tools](https://github.com/nihilus/hexrays_tools) - 
 - [coho](https://github.com/webcoyote/coho) - Base libraries for C++ development
-- [CrowdDetox](https://github.com/CrowdStrike/CrowdDetox) - 
+- [CrowdDetox](https://github.com/CrowdStrike/CrowdDetox) - The CrowdDetox plugin for Hex-Rays automatically removes junk code and variables from Hex-Rays function decompilations.
 - [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - C++ application that uses memory and code hooks to detect packers
 - [keygenme](https://github.com/crowell/keygenme) - keygenme challenge from csaw ctf 2013
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
