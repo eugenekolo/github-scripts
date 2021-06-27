@@ -164,7 +164,7 @@
 - [uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
 - [firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit) - Toolkit to emulate firmware and analyse it for security vulnerabilities
 - [pwn_repo](https://github.com/bash-c/pwn_repo) - To store some CTF_pwn_bins and exploits for self-practice
-- [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
+- [gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢
 - [zeropress](https://github.com/nettitude/zeropress) - A dumb script for finding dumb coding errors in WordPress plugins
 - [Zeratool](https://github.com/ChrisTheCoolHut/Zeratool) - Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems
 - [theftfuzzer](https://github.com/lc/theftfuzzer) - TheftFuzzer is a tool that fuzzes Cross-Origin Resource Sharing implementations for common misconfigurations.
