@@ -29,6 +29,7 @@
   - [Vim script](#vim script)
   - [CSS](#css)
   - [Swift](#swift)
+  - [OCaml](#ocaml)
   - [C#](#c#)
   - [ActionScript](#actionscript)
   - [Go](#go)
@@ -248,7 +249,6 @@
 - [sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
 - [highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [vector-exploit](https://github.com/hackedteam/vector-exploit) - Exploit repository
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 
 ## QML 
@@ -389,6 +389,10 @@
 ## Swift 
 
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
+
+## OCaml 
+
+- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## C# # 
 
